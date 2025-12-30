@@ -1,55 +1,74 @@
-<h1 align="center">Hi, I’m Borys Tsyrulnikov 👋</h1>
+<h1 align="center">Cloud Security & AI Infrastructure</h1>
 <p align="center">
-  Full‑Stack &amp; Backend Developer · I like weaving <strong>LLM / AI</strong> straight into scalable services.
+  <strong>Lead Engineer @ Cyntrisec</strong><br>
+  Building Zero-Trust environments, Graph Security, and Runtime Assurance for AI.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/borystsyrulnikov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tsyrulnikov.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tsyrulb&style=for-the-badge">
+  <a href="https://linkedin.com/in/borystsyrulnikov"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contact@cyntrisec.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Cyntrisec-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🛠 Tech Toolbox
-| Category | Tools & Frameworks |
+## ⚡ Current Focus: Confidential Computing & Graph Security
+I am currently architecting the **Cyntrisec** platform — a suite of advanced security tools for the AI era. My work focuses on Trusted Execution Environments (TEEs), Graph-based risk analysis, and Runtime Assurance for AI Agents.
+
+- 🔭 **Researching:** AWS Nitro Enclaves, CSPM (Cloud Security Posture Management), Attack Graphs.
+- 🦀 **Coding in:** Rust (Core logic), Python (Orchestration), TypeScript (Visualization).
+- 🛡️ **Building:** A unified security layer for Cloud and AI workloads.
+
+---
+
+## 🛠 Tech Stack
+| Domain | Technologies |
 | --- | --- |
-| **Languages** | C#, Python, TypeScript/JavaScript, Java, C++ |
-| **Back‑end** | .NET 8, ASP.NET Core, Flask/FastAPI, Node.js, REST/gRPC |
-| **Front‑end** | Angular, React |
-| **Data & AI** | SQL Server, PostgreSQL, MongoDB, Milvus, PyTorch, Sentence‑Transformers, TensorFlow, Gemini API |
-| **Cloud / DevOps** | Azure, GCP, Docker, GitHub Actions |
+| **Confidential Computing** | **Rust**, AWS Nitro Enclaves, KMS Attestation, TEE |
+| **Cloud Security** | CSPM, Graph Databases (Neo4j/AWS Neptune), Attack Path Analysis |
+| **Backend API** | Node.js, Python (FastAPI), .NET 8, gRPC |
+| **AI & Data** | Candle (Rust ML), LLM Agents, Vector Databases |
+| **Frontend** | React, Angular, D3.js (Graph Viz) |
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 The Cyntrisec Ecosystem (Deep Tech)
+*Advanced R&D initiatives focused on Cloud Security and AI Privacy.*
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Cyntrisec Platform](https://cyntrisec.com)** | **Graph Security.** Passive domain analysis combined with internal AWS Security Graph to visualize attack paths. | AWS |
+| **[EphemeralML](https://ephemeralml.cyntrisec.com)** | **Confidential Inference.** Zero-Trust infrastructure running AI models inside isolated AWS Nitro Enclaves. | Rust · AWS Nitro · Candle |
+| **AI Runtime Assurance** | **Agent Security.** Lightweight monitoring system for AI Agents to detect anomalous behavior and tool misuse. | Python · Bedrock |
+
+---
+
+## 📦 SaaS & Product Engineering
+*Consumer-facing applications and utilities deployed to production.*
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **IsMyEmailExposed** | Passive security scanner & leak detector. | [ismyemailexposed.com](https://ismyemailexposed.com) |
+| **InstaBrochure** | AI-powered marketing content generator. | [instabrochure.com](https://instabrochure.com) |
+| **CanIShareThisFile** | Secure file analysis utility (WASM-based). | [canisharethisfile.com](https://canisharethisfile.com) |
+
+---
+
+## 📜 Legacy Open Source
 | Project | Stack | Repo |
 | --- | --- | --- |
-| **JoinJoy** – Social‑matching platform with hybrid ML recommendations | .NET 8 · Flask · Angular · Azure | [link](https://github.com/tsyrulb/JoinJoy) |
-| **Echo‑Messenger** – Real‑time chat back‑end & Angular client | .NET Core · Firebase | [link](https://github.com/tsyrulb/EchoLibrary) |
-| **ResumeGenie** – LLM‑powered résumé & cover‑letter builder | React · Express · Gemini API | [link](https://github.com/tsyrulb/ResumeGenie) |
-| **Financial‑Data‑Explorer** _(in dev)_ – Time‑series analytics dashboards | Flask · React · Pandas | [link](https://github.com/tsyrulb/financial-data-explorer) |
+| **ResumeGenie** | React · Express · Gemini API | [View Repo](https://github.com/tsyrulb/ResumeGenie) |
+| **JoinJoy** | .NET 8 · Flask · Angular | [View Repo](https://github.com/tsyrulb/JoinJoy) |
 
 ---
 
-## 🌱 Currently
-- Building new **LLM micro‑services** for JoinJoy (semantic search & chat‑assist).
-- Exploring **contrastive learning** on genomic sequences for cancer detection (side research).
-- Open to full‑stack / back‑end roles where cloud, data, and AI intersect.
-
----
-
-## 📈 GitHub Stats
+## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsyrulb&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyrulb&layout=compact&hide=html,css" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsyrulb&show_icons=true&theme=transparent&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyrulb&layout=compact&hide=html,css&theme=transparent&hide_border=true" height="150">
 </p>
 
 ---
 
-### ✉️ Reach Out
-- **Email:** tsyrulnikov.work@gmail.com  
-- **LinkedIn:** [linkedin.com/in/borystsyrulnikov](https://linkedin.com/in/borystsyrulnikov)
-
-_Pull requests, issues, and coffee chats are always welcome—thanks for visiting!_
-
+### 📬 Contact
+* **Business Inquiries:** `contact@cyntrisec.com`
+* **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/borystsyrulnikov)
