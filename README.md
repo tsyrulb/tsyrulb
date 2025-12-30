@@ -61,14 +61,6 @@ I am currently architecting the **Cyntrisec** platform — a suite of advanced s
 
 ---
 
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsyrulb&show_icons=true&theme=transparent&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyrulb&layout=compact&hide=html,css&theme=transparent&hide_border=true" height="150">
-</p>
-
----
-
 ### 📬 Contact
 * **Business Inquiries:** `contact@cyntrisec.com`
 * **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/borystsyrulnikov)
