@@ -1,11 +1,9 @@
 <h1 align="center">Cloud Security & AI Infrastructure</h1>
 <p align="center">
-  <strong>Lead Engineer @ Cyntrisec</strong><br>
+  <strong> @ Cyntrisec</strong><br>
   Building Zero-Trust environments, Graph Security, and Runtime Assurance for AI.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/borystsyrulnikov"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contact@cyntrisec.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Cyntrisec-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -63,4 +61,3 @@ I am currently architecting the **Cyntrisec** platform — a suite of advanced s
 
 ### 📬 Contact
 * **Business Inquiries:** `contact@cyntrisec.com`
-* **Professional Network:** [LinkedIn Profile](https://linkedin.com/in/borystsyrulnikov)
