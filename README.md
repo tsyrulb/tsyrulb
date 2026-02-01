@@ -96,7 +96,7 @@ Frontend        React, Angular, D3.js, TypeScript
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tsyrulb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tsyrulb&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsyrulb&theme=github-dark-blue&hide_border=true" width="600" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tsyrulb&theme=github-dark-blue&hide_border=true" width="600" />
 
 </div>
 
