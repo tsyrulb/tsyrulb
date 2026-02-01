@@ -1,63 +1,109 @@
-<h1 align="center">Cloud Security & AI Infrastructure</h1>
-<p align="center">
-  <strong> @ Cyntrisec</strong><br>
-  Building Zero-Trust environments, Graph Security, and Runtime Assurance for AI.
-</p>
+<div align="center">
 
-  <a href="mailto:contact@cyntrisec.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Cyntrisec-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+**Founder @ [Cyntrisec](https://cyntrisec.com)**
 
----
+Cloud Security, Confidential Computing & AI Infrastructure
 
-## ⚡ Current Focus: Confidential Computing & Graph Security
-I am currently architecting the **Cyntrisec** platform — a suite of advanced security tools for the AI era. My work focuses on Trusted Execution Environments (TEEs), Graph-based risk analysis, and Runtime Assurance for AI Agents.
+[![Website](https://img.shields.io/badge/cyntrisec.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyntrisec.com)
+[![Email](https://img.shields.io/badge/contact@cyntrisec.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@cyntrisec.com)
+[![X](https://img.shields.io/badge/@cyntrisec-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cyntrisec)
 
-- 🔭 **Researching:** AWS Nitro Enclaves, CSPM (Cloud Security Posture Management), Attack Graphs.
-- 🦀 **Coding in:** Rust (Core logic), Python (Orchestration), TypeScript (Visualization).
-- 🛡️ **Building:** A unified security layer for Cloud and AI workloads.
+</div>
 
 ---
 
-## 🛠 Tech Stack
-| Domain | Technologies |
-| --- | --- |
-| **Confidential Computing** | **Rust**, AWS Nitro Enclaves, KMS Attestation, TEE |
-| **Cloud Security** | CSPM, Graph Databases (Neo4j/AWS Neptune), Attack Path Analysis |
-| **Backend API** | Node.js, Python (FastAPI), .NET 8, gRPC |
-| **AI & Data** | Candle (Rust ML), LLM Agents, Vector Databases |
-| **Frontend** | React, Angular, D3.js (Graph Viz) |
+### About
+
+I build security tooling for the AI era. My work at **Cyntrisec** spans AWS attack-path analysis, confidential computing with hardware-backed enclaves, and tamper-evident audit trails for AI agents.
+
+- **Rust** for core security logic and enclave runtimes
+- **Python** for cloud analysis and orchestration
+- **TypeScript** for visualization and frontends
 
 ---
 
-## 🚀 The Cyntrisec Ecosystem (Deep Tech)
-*Advanced R&D initiatives focused on Cloud Security and AI Privacy.*
+### Cyntrisec Open Source
 
-| Project | Description | Stack |
+<table>
+<tr>
+<td width="50%">
+
+**[Cyntrisec CLI](https://github.com/cyntrisec/cyntrisec-cli)**
+AWS capability graph analysis and attack-path discovery. Read-only CLI that scans infrastructure, builds IAM/network graphs, discovers attack paths, and prioritizes fixes by ROI.
+
+`Python` `AWS` `Graph Theory` `MCP Server`
+
+</td>
+<td width="50%">
+
+**[EphemeralML](https://github.com/cyntrisec/EphemeralML)**
+Confidential AI inference with hardware-backed attestation. Runs models inside AWS Nitro Enclaves where prompts and weights stay encrypted, even if the host is compromised.
+
+`Rust` `AWS Nitro Enclaves` `TEE` `Candle`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Clawprint](https://github.com/cyntrisec/clawprint)**
+Tamper-evident audit trail for AI agent runs. Captures tool calls, outputs, and lifecycle events, sealing them in a SHA-256 hash chain. Includes security scanner, web dashboard, and MCP server.
+
+`Rust` `SQLite` `Hash Chain` `MCP`
+
+</td>
+<td width="50%">
+
+**[Cyntrisec Platform](https://cyntrisec.com)**
+Web interface for the Cyntrisec CLI. Visualize AWS attack paths, explore capability graphs, and generate remediation plans.
+
+`AWS` `React` `D3.js`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Products & Websites
+
+| Product | Description | Link |
 | --- | --- | --- |
-| **[Cyntrisec Platform](https://cyntrisec.com)** | **Graph Security.** Passive domain analysis combined with internal AWS Security Graph to visualize attack paths. | AWS |
-| **[EphemeralML](https://ephemeralml.cyntrisec.com)** | **Confidential Inference.** Zero-Trust infrastructure running AI models inside isolated AWS Nitro Enclaves. | Rust · AWS Nitro · Candle |
-| **AI Runtime Assurance** | **Agent Security.** Lightweight monitoring system for AI Agents to detect anomalous behavior and tool misuse. | Python · Bedrock |
+| **EphemeralML** | Confidential AI inference platform | [ephemeralml.cyntrisec.com](https://ephemeralml.cyntrisec.com) |
+| **IsMyEmailExposed** | Passive security scanner & leak detector | [ismyemailexposed.com](https://ismyemailexposed.com) |
+| **InstaBrochure** | Marketing brochure generator | [instabrochure.com](https://instabrochure.com) |
+| **CanIShareThisFile** | Secure file analysis utility (WASM-based) | [canisharethisfile.com](https://canisharethisfile.com) |
+| **Clawprint Docs** | Documentation & dashboard for Clawprint | [cyntrisec.github.io/clawprint](https://cyntrisec.github.io/clawprint/) |
 
 ---
 
-## 📦 SaaS & Product Engineering
-*Consumer-facing applications and utilities deployed to production.*
+### Tech Stack
 
-| Project | Description | Link |
-| --- | --- | --- |
-| **IsMyEmailExposed** | Passive security scanner & leak detector. | [ismyemailexposed.com](https://ismyemailexposed.com) |
-| **InstaBrochure** | AI-powered marketing content generator. | [instabrochure.com](https://instabrochure.com) |
-| **CanIShareThisFile** | Secure file analysis utility (WASM-based). | [canisharethisfile.com](https://canisharethisfile.com) |
-
----
-
-## 📜 Legacy Open Source
-| Project | Stack | Repo |
-| --- | --- | --- |
-| **ResumeGenie** | React · Express · Gemini API | [View Repo](https://github.com/tsyrulb/ResumeGenie) |
-| **JoinJoy** | .NET 8 · Flask · Angular | [View Repo](https://github.com/tsyrulb/JoinJoy) |
+```text
+Security        Rust, AWS Nitro Enclaves, KMS Attestation, TEE, Graph Analysis
+Cloud           AWS, CSPM, IAM, Attack Path Discovery, Terraform
+Backend         Python (FastAPI), Node.js, .NET 8, gRPC
+AI/ML           Candle (Rust), LLM Agents, MCP, Vector Databases
+Frontend        React, Angular, D3.js, TypeScript
+```
 
 ---
 
-### 📬 Contact
-* **Business Inquiries:** `contact@cyntrisec.com`
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tsyrulb&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsyrulb&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsyrulb&theme=github-dark-blue&hide_border=true" width="600" />
+
+</div>
+
+---
+
+<div align="center">
+
+**[cyntrisec.com](https://cyntrisec.com)** | **[contact@cyntrisec.com](mailto:contact@cyntrisec.com)**
+
+</div>
