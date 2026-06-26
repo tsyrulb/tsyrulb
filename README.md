@@ -16,14 +16,6 @@ Cloud Security, Confidential Computing & AI Infrastructure
 <tr>
 <td width="50%">
 
-**[Cyntrisec CLI](https://github.com/cyntrisec/cyntrisec-cli)**
-AWS capability graph analysis and attack-path discovery. Read-only CLI that scans infrastructure, builds IAM/network graphs, discovers attack paths, and prioritizes fixes by ROI.
-
-`Python` `AWS` `Graph Theory` `MCP Server`
-
-</td>
-<td width="50%">
-
 **[EphemeralML](https://github.com/cyntrisec/EphemeralML)**
 Confidential AI inference with hardware-backed attestation. Runs models inside AWS Nitro Enclaves where prompts and weights stay encrypted, even if the host is compromised.
 
@@ -51,19 +43,7 @@ Web interface for the Cyntrisec CLI. Visualize AWS attack paths, explore capabil
 </tr>
 </table>
 
----
 
-### Products & Websites
-
-| Product | Description | Link |
-| --- | --- | --- |
-| **EphemeralML** | Confidential AI inference platform | [ephemeralml.cyntrisec.com](https://ephemeralml.cyntrisec.com) |
-| **IsMyEmailExposed** | Passive security scanner & leak detector | [ismyemailexposed.com](https://ismyemailexposed.com) |
-| **InstaBrochure** | Marketing brochure generator | [instabrochure.com](https://instabrochure.com) |
-| **CanIShareThisFile** | Secure file analysis utility (WASM-based) | [canisharethisfile.com](https://canisharethisfile.com) |
-| **Clawprint Docs** | Documentation & dashboard for Clawprint | [cyntrisec.github.io/clawprint](https://cyntrisec.github.io/clawprint/) |
-
----
 
 ### Tech Stack
 
