@@ -12,18 +12,6 @@ Cloud Security, Confidential Computing & AI Infrastructure
 
 ---
 
-### About
-
-I build security tooling for the AI era. My work at **Cyntrisec** spans AWS attack-path analysis, confidential computing with hardware-backed enclaves, and tamper-evident audit trails for AI agents.
-
-- **Rust** for core security logic and enclave runtimes
-- **Python** for cloud analysis and orchestration
-- **TypeScript** for visualization and frontends
-
----
-
-### Cyntrisec Open Source
-
 <table>
 <tr>
 <td width="50%">
